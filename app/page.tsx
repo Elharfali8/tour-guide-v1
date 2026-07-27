@@ -2,6 +2,7 @@ import BenefitsBanner from '@/components/home/BenefitsBanner'
 import AboutGuide from '@/components/home/AboutGuide'
 import Hero from '@/components/home/Hero'
 import PopularPlaces from '@/components/home/PopularTours'
+import TestimonialsCarousel from '@/components/home/TestimonialsCarousel'
 import Header from '@/components/layout/Header'
 import React from 'react'
 
@@ -13,6 +14,7 @@ const page = () => {
       <BenefitsBanner />
       <PopularPlaces />
       <AboutGuide />
+      <TestimonialsCarousel />
     </main>
   )
 }
