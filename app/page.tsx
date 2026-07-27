@@ -1,5 +1,6 @@
 import BenefitsBanner from '@/components/home/BenefitsBanner'
 import AboutGuide from '@/components/home/AboutGuide'
+import ContactSection from '@/components/home/ContactSection'
 import Hero from '@/components/home/Hero'
 import PopularPlaces from '@/components/home/PopularTours'
 import TestimonialsCarousel from '@/components/home/TestimonialsCarousel'
@@ -15,6 +16,7 @@ const page = () => {
       <PopularPlaces />
       <AboutGuide />
       <TestimonialsCarousel />
+      <ContactSection />
     </main>
   )
 }
