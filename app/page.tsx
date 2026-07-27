@@ -4,6 +4,7 @@ import ContactSection from '@/components/home/ContactSection'
 import Hero from '@/components/home/Hero'
 import PopularPlaces from '@/components/home/PopularTours'
 import TestimonialsCarousel from '@/components/home/TestimonialsCarousel'
+import Footer from '@/components/layout/Footer'
 import Header from '@/components/layout/Header'
 import React from 'react'
 
@@ -17,6 +18,7 @@ const page = () => {
       <AboutGuide />
       <TestimonialsCarousel />
       <ContactSection />
+      <Footer />
     </main>
   )
 }
