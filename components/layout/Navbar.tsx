@@ -18,7 +18,7 @@ const Navbar = ({ isScrolled, isMenuOpen, onMenuToggle }: NavbarProps) => {
           isScrolled ? 'text-neutral-950' : 'text-white'
         }`}
       >
-        HOUCEIN
+        HOUSSIN
       </Link>
 
       <div className="hidden items-center gap-8 md:flex">

@@ -28,7 +28,7 @@ const Sidebar = ({ isOpen, onClose }: SidebarProps) => {
           <p className="text-xs font-bold uppercase tracking-[0.22em] text-orange-600">
             Menu
           </p>
-          <p className="mt-2 text-2xl font-black tracking-[0.08em]">HOUCEIN</p>
+          <p className="mt-2 text-2xl font-black tracking-[0.08em]">HOUSSIN</p>
         </div>
 
         <div className="flex flex-col gap-2">
